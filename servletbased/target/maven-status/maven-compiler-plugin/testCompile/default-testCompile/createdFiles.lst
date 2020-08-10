@@ -1,0 +1,3 @@
+com\test\servletbased\testcases\JWebUnitTest.class
+com\test\servletbased\testcases\MyServletTest.class
+com\test\servletbased\testutils\TestUtils.class
